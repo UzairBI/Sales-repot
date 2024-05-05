@@ -1,4 +1,4 @@
-# Sales-repot
+# Sales-report
 Design a comprehensive dashboard using Power BI to analyze sales data across various categories and perform trend analysis.
 Supermarket Sales Dashboard using Power BI - Explanation
 Objective: Design a comprehensive dashboard using Power BI to analyze sales data across various categories and perform trend analysis.
